@@ -1510,7 +1510,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = org.alamofire.Alamofire;
 				PRODUCT_NAME = Alamofire;
-				SDKROOT = watchos.internal;
+				SDKROOT = watchos;
 				SKIP_INSTALL = YES;
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = 4;
@@ -1531,7 +1531,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = org.alamofire.Alamofire;
 				PRODUCT_NAME = Alamofire;
-				SDKROOT = watchos.internal;
+				SDKROOT = watchos;
 				SKIP_INSTALL = YES;
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = 4;
@@ -1674,7 +1674,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = org.alamofire.Alamofire;
 				PRODUCT_NAME = Alamofire;
-				SDKROOT = iphoneos.internal;
+				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
 			};
@@ -1695,7 +1695,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = org.alamofire.Alamofire;
 				PRODUCT_NAME = Alamofire;
-				SDKROOT = iphoneos.internal;
+				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
 			};
